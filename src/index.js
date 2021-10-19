@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 import reportWebVitals from "./reportWebVitals";
 import Widget from "./Widget";
 import Footer from "./Footer";
-import index from "./index.css";
+import "./index.css";
 
 ReactDOM.render(
   <React.StrictMode>
