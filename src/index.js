@@ -4,6 +4,7 @@ import reportWebVitals from "./reportWebVitals";
 import Widget from "./Widget";
 import Footer from "./Footer";
 import "./index.css";
+import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 
 ReactDOM.render(
   <React.StrictMode>
